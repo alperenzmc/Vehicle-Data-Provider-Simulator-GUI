@@ -3,6 +3,7 @@
 #include "VDP_Simulator/vehicledataprovider.h"
 #include <memory>
 #include <QApplication>
+//commit
 
 int main(int argc, char *argv[])
 {
